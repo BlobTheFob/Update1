@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appId="steamflix"> 
+        <version>1.1.0.1</version> 
+        <url></url> 
+        <fileName>steamfilx.exe</fileName> 
+        <md5></md5>
+        <description>Update: 06/19/2014:
+        1. Added notification message when the current version is already the latest.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
